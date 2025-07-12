@@ -193,12 +193,12 @@ export function Home() {
 
   return (
     <div className="mt-1 p-4 relative">
-      <button
+      {/* <button
         onClick={locateMe}
         className="absolute top-4 right-4 bg-white p-2 rounded shadow z-20"
       >
         Locate Me
-      </button>
+      </button> */}
 
       <form onSubmit={handleSearchSubmit} className="mb-4 flex space-x-2">
         <input

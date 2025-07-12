@@ -9,7 +9,7 @@ import {
 import { useState } from "react";
 import { DocumentArrowUpIcon } from "@heroicons/react/24/outline";
 
-export function IntelInfo() {
+export function Inputs() {
   const [files, setFiles] = useState([]);
   const [intelText, setIntelText] = useState("");
 
@@ -110,4 +110,4 @@ export function IntelInfo() {
   );
 }
 
-export default IntelInfo;
+export default Inputs;
