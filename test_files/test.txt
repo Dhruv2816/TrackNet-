@@ -1,0 +1,116 @@
+**SSP INT 01**
+**AOR: 13 RR | Dated: 02 July 2025**
+
+* Subject Naseer (alias Mudasir), previously tracked operating between Hajin and Wular fringes, is no longer communicating via known proxy numbers.
+* Intercepts from the Kunan-Poshpora tower dump indicate encrypted short-range communication (potentially LoRa devices).
+* A coded message passed via a Qari at Sopore madrasa mentioned "G72 arrival via walnut grove."
+* Drone thermal traces confirmed multiple night-stay signatures near the upper orchards of Reshipora (grid 43-B).
+* Two silhouettes matched known biometric estimates for Zubair and Zahoor. The third remains unknown.
+* Zahoor was earlier presumed neutralized in the 2024 Eidgah shootout.
+
+**SSP INT 02**
+**AOR: 26 AR | Dated: 04 July 2025**
+
+* Female informant (codename: Falcon-12) reported Feroza (20) and Iqra (17) delivered inhalers and codeine syrups to “Cache 5-Delta.”
+* Handler Waleed, suspected Pakistani national, matched to a madrasa teacher in Achabal.
+* Intercepted fragments from Zubair's satphone logs mentioned: "Delta leak — switch to Faizan route — Ghulam’s contact burnt."
+* Faizan route likely refers to the left spur ridge from Chitibandi to Tragbal.
+* Faizan route has no water supply, implying pre-stocked caches.
+
+**SSP INT 03**
+**AOR: 21 RR | Dated: 06 July 2025**
+
+* Local OGW from Chuntimulla (code: “Deer-5”) surrendered and revealed GPS trails.
+* Trails traced a loop: Sangrampora -> Mirgund -> Pethkoot -> Chuntimulla, between 18–25 June.
+* Deer-5 ferried code-labelled bags (‘Jal-11’, ‘Jal-13’) to a “marked pine cluster” near Point 406 (Panar flank).
+* 'Jal-13' matched to a package intercepted by 26 AR with plastic explosives and SSD.
+* Deer-5 referenced "Abu Hamza," not in Bandipora networks.
+
+**SSP INT 04**
+**AOR: Multi-Sector (13 RR / 14 RR / 26 AR) | Dated: 08 July 2025**
+
+* Sopore-Bandipora terminal heatmap shows 30% match to Zahoor, alias “Farhan-ul-Islam.”
+* Informant "Leaf-9" placed Zubair and a third male at Hajin dargah, exchanging USD with a Handwara trader.
+* Reported money passed for a sleeper tech setup involving FM node on Bandipora Ridge.
+* Signals on 87.7 MHz included coded poetry and Quranic verses.
+
+**SSP INT 05**
+**AOR: 27 RR / SOG JKP Cell | Dated: 09 July 2025**
+
+* Ledger recovered near Dachina Nullah with entries: “11G-Zahoor,” “F2:26.3,” “Delta-13 split @ Khaipora.”
+* Chemical analysis linked to a missing juvenile detained last year.
+* Garmin GPS pings near Tragbal aligned with Cache 5-Delta trail.
+* Locals reported three armed men dressed as shepherds, one with limp.
+
+**SSP INT 06**
+**AOR: 13 RR | Dated: 10 July 2025**
+
+* Naseer, alias “Irfan Khalid,” flagged at post-Hajin Eid Mela crowd.
+* Surveillance footage was corrupted due to RF disruption at 446.2 MHz.
+* Notebook from Chitibandi lists “446” next to “IK/Healer.”
+* Detainee notes from 2022 mentioned “Healer picks up after snowfall.”
+
+**SSP INT 07**
+**AOR: 14 RR | Dated: 10 July 2025**
+
+* Signal relay atop Point K-217 began emitting modified AIS signals.
+* Reported movement of Rizwan and two Punjabi-Urdu speaking men between Panar and Malangam.
+* Shepherd overheard phrases: “Hidayat marker” and “Noor route.”
+* Urdu inscription on boulder: “Noor lights only after Hidayat burns.”
+
+**SSP INT 08**
+**AOR: 26 AR | Dated: 11 July 2025**
+
+* Iqra’s phone last pinged near Rajan Top.
+* Surveillance captured masked individual placing floral package at Pazalpora shrine.
+* Local boy overheard: “They asked for my Aadhaar!”
+* Whisper intercept from Faizan route repeated: “Code broken. Ghulam compromised.”
+
+**SSP INT 09**
+**AOR: 13 RR & Army Intel | Dated: 11 July 2025**
+
+* Jeep abandoned near Sadunara had Quran folded in Fibonacci sequence.
+* Sticky notes inside had codes: “5R-KD,” “3B-FN,” “21A-ZU.”
+* Plastic bag contained burnt LoRa transceiver.
+
+**SSP INT 10**
+**AOR: 14 RR & Cyber Unit | Dated: 12 July 2025**
+
+* Captured USB contained mp3s with ultrasonic modulations.
+* Spectral analysis decoded: “Shift crescent before 2nd moon” and “Farmer reads from left ridge.”
+* Matches triggers from 2024 Waleed intercepts.
+
+**SSP INT 11**
+**AOR: 27 RR & 26 AR | Dated: 12 July 2025**
+
+* Diary from Khaipora bunker listed "wet days" and "silent nights."
+* Timeline aligned with audio spikes from FM 87.7 MHz.
+* Phrase: “Do not light fire on Zahoor’s moon.”
+
+**SSP INT 12**
+**AOR: 13 RR | Dated: 13 July 2025**
+
+* Merchant from Wular ghat delivered sacks labelled “Atta-K.”
+* Two sacks contained glucose gels and edible encrypted instructions.
+* Message read: “Bismillah start — repeat Healer at Sadunara.”
+
+**SSP INT 13**
+**AOR: Joint Ops | Dated: 13 July 2025**
+
+* Faizan route reopened using rope bridges and timber gear.
+* Footprints matched juvenile detained last year.
+* Coded whistle language heard, consistent with 2015 LeT shepherd signals.
+
+**SSP INT 14**
+**AOR: 26 AR | Dated: 14 July 2025**
+
+* Metallic tube near Naugam checkpoint contained film negatives.
+* Photos included suspects cleared last year.
+* Phrase scratched: “Iqra not loyal. Watch father’s house.”
+
+**SSP INT 15**
+**AOR: Multi-AOR | Dated: 15 July 2025**
+
+* Zahoor heard over ham radio: “Split is fake. Zubair leads. Faizan loop bait only. Alpha meet under shrine.”
+* Implies Faizan activity was cover.
+* Alpha meet reference suggests regroup point near shrine area.
